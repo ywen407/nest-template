@@ -1,1 +1,5 @@
-# nest-template
+## nest-template
+
+#### detail
+- nestjs
+- typeorm(mysql)
